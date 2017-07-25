@@ -1,0 +1,5 @@
+D:\Anji Working\My Research Projects\2Dbinning\2DBin1SKU\bin\Debug\2DBin1SKU.dll
+D:\Anji Working\My Research Projects\2Dbinning\2DBin1SKU\bin\Debug\2DBin1SKU.pdb
+D:\Anji Working\My Research Projects\2Dbinning\2DBin1SKU\obj\Debug\2DBin1SKU.csprojResolveAssemblyReference.cache
+D:\Anji Working\My Research Projects\2Dbinning\2DBin1SKU\obj\Debug\2DBin1SKU.dll
+D:\Anji Working\My Research Projects\2Dbinning\2DBin1SKU\obj\Debug\2DBin1SKU.pdb
